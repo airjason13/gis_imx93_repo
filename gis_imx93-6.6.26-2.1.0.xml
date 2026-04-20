@@ -14,7 +14,7 @@
 
   <remote name="imx"         fetch="https://github.com/nxp-imx"/>
   <remote name="imx-support" fetch="https://github.com/nxp-imx-support"/>
-  <remote name="swupdate" fetch="https://github.com/sbabic/swupdate"/>
+  <remote name="swupdate" fetch="https://github.com/sbabic"/>
   <remote name="airjason13" fetch="https://github.com/airjason13"/>
 
   <project name="poky" remote="yp" path="sources/poky" revision="f43f393ef0246b7bee6eed8bcf8271cf2b8cdf40" upstream="scarthgap"/>
